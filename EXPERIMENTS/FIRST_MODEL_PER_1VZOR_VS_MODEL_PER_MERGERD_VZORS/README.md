@@ -1,0 +1,2 @@
+DO DOKUMENTACIE 
+Aj ked vyjdu lepsie vysledky pre jednotlive vzory, nemozme to pouzit u nas lebo neobsahuju vsetky smery... takze ako experiment ano lepsie sa natrenuje model pre jednotlive vzory oproti tomu ze mame len jeden model, lenze takto nezachytime smery a potom realne urcovanie zlozistejsich vzorov by bolo nespravne. 
