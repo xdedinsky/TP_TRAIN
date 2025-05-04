@@ -1,0 +1,2 @@
+Porovnania troch modelov XBG, SVM, KNN na datasete so vsetkymi spojenymi vzormi, z coho nam vyslo najlepsie XBG, ktory ma najvyssiu presnost a najhorsie KNN, ktory ma najnizsiu presnost.
+Ďalej teda aj pri analyze na jednodlivych vzoroch (FIRST zložka) aj pri porovnani Multiple vs Binary (SECOND zložka) pracujeme s XBG modelom.
